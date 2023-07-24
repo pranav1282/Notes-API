@@ -1,0 +1,9 @@
+1. _id sirf user model mein autogenerate kyu ho rhi hai, note model mein kyun nahi
+
+2. noteController mein newNote.save kyu likhna. userModel mein kyu nahi
+
+3. header khud pass krwana padhta hai kya full stack mein. Kyunki postman mein to krwa
+   rhe hain notes create ya read k time
+
+
+   4. dono model mein create krne ke tareeke alag alag hain
